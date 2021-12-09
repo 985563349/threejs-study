@@ -1,1 +1,1 @@
-console.log('hello three.js');
+import './examples/axis';
