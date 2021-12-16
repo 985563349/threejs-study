@@ -1,1 +1,1 @@
-import './examples/axis';
+import './examples/grid';
