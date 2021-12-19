@@ -1,1 +1,1 @@
-import './examples/grid';
+import './examples/scene-graph';
